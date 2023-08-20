@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "montserrat";
+
+}
+
+.logo{
+    color: greenyellow;
+    font-family: "montserrat";
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.kanderi{
+    color: darkblue;
+    font-family: "montserrat";
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-link:hover{
+    color: greenyellow;
+}
+
+.btn{
+    margin: 10px;
+    border-style: solid;
+    border-color: greenyellow;
+
+}
+
+.btn:hover{
+    background-color: greenyellow;
+}
+
+.fresh{
+    color: rgb(124, 176, 46);
+}
+
+.ronded{
+    margin-right: 50px;
+}
+
+.lead{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
